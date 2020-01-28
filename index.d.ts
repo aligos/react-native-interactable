@@ -1,4 +1,4 @@
-declare module "@aligos/interactable" {
+declare module "@aligos/react-native-interactable" {
   import { Animated, ViewProperties, ViewStyle } from "react-native";
 
   namespace Interactable {

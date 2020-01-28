@@ -1,5 +1,5 @@
 {
-  "name": "@aligos/interactable",
+  "name": "@aligos/react-native-interactable",
   "version": "0.0.1",
   "description": "A package implementation interactable using react-native-reanimated",
   "main": "index.js",
