@@ -1,0 +1,23 @@
+{
+  "name": "@aligos/interactable",
+  "version": "0.0.1",
+  "description": "A package implementation interactable using react-native-reanimated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligos/interactable.git"
+  },
+  "keywords": [
+    "Interactable",
+    "react-native-reanimated"
+  ],
+  "author": "react-native-reanimated example contributor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligos/interactable/issues"
+  },
+  "homepage": "https://github.com/aligos/interactable#readme"
+}
